@@ -1,1 +1,1 @@
-# CP
+# Computação Paralela
